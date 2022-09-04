@@ -1,2 +1,3 @@
-# study-computer-architecture
-컴퓨터구조
+# computer-architecture
+
+* [CI , CPI , execution time ]()
